@@ -1,6 +1,6 @@
 # Hi, there! 	:man_technologist:
 
-I am an aspiring Software Engineer who just finished a Software Engineering Skills Bootcamp at HyperionDev, <br> supported by the Department of Education.
+I am an aspiring Software Engineer who graduated from the Software Engineering Skills Bootcamp at HyperionDev, <br> supported by the Department of Education.
 
 :desktop_computer: Tech stack: <br>
 - <img width="12" alt="python" src="https://user-images.githubusercontent.com/121237247/227751740-baadf7c6-f64f-48e6-b190-559901d03058.png"> **Python** 
