@@ -1,6 +1,9 @@
  # Hi, there! 	👨‍💻
-
-<img width="699" alt="AWSCCP" src="https://firebrand.training/media/1hljpbeg/aws-certified-cloud-practitioner-firebrand.png?width=1920&height=450&rnd=133537902818300000">
+ 
+<p align="center">
+  <img width="120" alt="AWSSAA" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png">&nbsp;&nbsp;&nbsp;
+  <img width="120" alt="AWSCCP" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png">
+</p>
 
 2x AWS Certified DevOps Engineer<br>
 
@@ -27,7 +30,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 Reach me on <img width="13" alt="linkedin" src="https://user-images.githubusercontent.com/121237247/227750118-a0644a59-0d88-4f27-9790-2adab91d0f97.png">
 [Linkedin](https://www.linkedin.com/in/onurozcelikppl/)!
-
 
 
 
