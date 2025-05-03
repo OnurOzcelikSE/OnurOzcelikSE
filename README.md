@@ -2,7 +2,7 @@
 
 <img width="699" alt="AWSCCP" src="https://firebrand.training/media/1hljpbeg/aws-certified-cloud-practitioner-firebrand.png?width=1920&height=450&rnd=133537902818300000">
 
-AWS Certified Cloud Practitioner and DevOps Engineer<br>
+2x AWS Certified DevOps Engineer<br>
 
 🖥️ Tech stack: 
 
